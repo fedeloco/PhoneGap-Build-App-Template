@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
-		id = "it.venerons.APPLICATION"
+		id = "ar.com.horoscopo-del-dia.ejemplo"
 		version = "1.0.0"
 		versionCode = "1">
 
-    <name>APPLICATION NAME</name>
+    <name>Ejemplo 1</name>
 
     <description>
-        APPLICATION DESCRIPTION
+        Descripcion
     </description>
 
-    <author href="http://venerons.github.io" email="veneronslaboratories@gmail.com">
-        Daniele Veneroni
+    <author href="http://horoscopo-del-dia.com.ar" email="femiliani@gmail.com">
+        Federico Emiliani
 	</author>
         
         
@@ -73,7 +73,7 @@
     <preference name="prerendered-icon" value="true" /> <!-- non applica effetto gloss all'icona -->
     <preference name="stay-in-webview" value="false" /> <!-- if set to true, all links (even with target set to blank) will open in the app's webview -->
     <preference name="ios-statusbarstyle" value="black-opaque" />
-    <preference name="exit-on-suspend" value="true" /> <!-- if set to false, app will continue to run on suspend -->
+    <preference name="exit-on-suspend" value="false" /> <!-- if set to false, app will continue to run on suspend -->
     <preference name="show-splash-screen-spinner" value="true" /> <!-- if set to false, the spinner won't appear on the splash screen during app loading -->
     <preference name="auto-hide-splash-screen" value="true" /> <!-- if set to false, the splash screen must be hidden using a JavaScript API -->
         

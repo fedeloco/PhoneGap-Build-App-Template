@@ -1,6 +1,6 @@
 {
-    "name": "My App Name",
-    "description": "description of the app",
+    "name": "Ejemplo",
+    "description": "Descripcion",
     "version": "1",
     "type": "web",
     "csp": "allow 'self'; script-src 'self' ; style-src 'self';",
@@ -19,13 +19,13 @@
         "512": "/img/icons/webapp/icon512.png"
     },
     "developer": {
-        "name": "Daniele Veneroni",
-        "url": "http://venerons.github.io/"
+        "name": "Federico Emiliani",
+        "url": "http://horoscopo-del-dia.com.ar"
     },
     "default_locale": "en",
     "locales": {
       "it": {
-        "description": "Descrizione dell'applicazione"
+        "description": "Descripcion de la aplicacion"
       }
     }
 }
